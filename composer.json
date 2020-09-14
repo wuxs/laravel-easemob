@@ -1,6 +1,6 @@
 {
-    "name": "quhang/laravel-easemob",
-    "description": "easemob for laravel",
+    "name": "wuxs/laravel-easemob",
+    "description": "easemob for laravel,更新依赖",
     "type": "library",
     "require": {
         "php": "^7.2.5",
